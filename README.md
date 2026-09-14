@@ -1,6 +1,7 @@
 # SKE Parking Management System
 
 Dokumentasi lengkap, panduan instalasi, dan struktur sistem untuk **SKE Parking**—aplikasi manajemen parkir berbasis web yang terintegrasi dengan database MySQL (`gl_parkir`).
+**algoritma**[algoritma](https://canva.link/7fqo865t646y7lw)
 
 ---
 
